@@ -1,0 +1,17 @@
+{
+    "name": "kyoleht/web-store-php",
+    "description": "Loja Online em PHP",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "core\\": "core/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kyoleht",
+            "email": "rafaelferreiradasilva1812@gmail.com"
+        }
+    ],
+    "require": {}
+}
